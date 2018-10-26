@@ -55,3 +55,9 @@ INSTALLED_APPS = [
 AUTH_USER_MODEL = "users.UserProfile"
 ~~~
 4. 安装 pillow  pip2 install pillow
+
+### 4-6
+1. 增加邮箱验证码model及banner model
+~~~
+
+~~~
